@@ -8,4 +8,4 @@ Constraints: you cannot add the digit 9 or subtract from the digit 0, you cannot
 The code in ThreeDigits.py solves the puzzle using 6 search strategies: breadth first search, depth first search, Greedy search, A* search, hill climbing and iterative deepening depth first search. 
 
 ## Assignment 2: 
-This task involves implementing K-nearest neighbour and Naive Bayes algorithms to evaluate the Pima Indians Diabetes dataset. 
+This task involves implementing K-nearest neighbour and Naive Bayes algorithms to evaluate the Pima Indians Diabetes dataset. Code is stored in MyClassifier.py.
